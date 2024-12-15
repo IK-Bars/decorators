@@ -1,4 +1,4 @@
-venv/
+venv313/
 dist/
 build/
 *.spec
